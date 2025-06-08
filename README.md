@@ -47,7 +47,7 @@ The goal of the ECOM360 dashboard is to provide a comprehensive overview of an e
 
 ## 📂 File Structure
 
-```plaintext
+
 ecom360-dashboard/
 │
 ├── 📊 PowerBI_Dashboard/
@@ -67,4 +67,5 @@ ecom360-dashboard/
 
 
 ## 📂 Output
+
 ![Image](https://github.com/user-attachments/assets/903d79fe-5b55-4d5c-a48f-6e1992956213)
