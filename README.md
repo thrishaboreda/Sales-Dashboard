@@ -63,3 +63,8 @@ ecom360-dashboard/
 │   └── dashboard_preview.png         # Screenshot of final dashboard
 │
 └── 📘 README.md                       # Project documentation
+
+
+
+## 📂 Output
+![Image](https://github.com/user-attachments/assets/0b03b8bb-a094-4abf-8dee-b429342ff13d)
